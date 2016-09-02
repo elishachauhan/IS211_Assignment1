@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Week 1 Assignment 2."""
+"""A small docstring for Assignment 1 Part 2"""
 
 class Book(object):
     """A book class.
