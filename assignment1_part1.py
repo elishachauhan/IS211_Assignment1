@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Week 1 Assignment Part 1"""
+"""A small docstring for Assignment 1 Part 1"""
 
 
 def listDivide(numbers, divide=2):
